@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 1,
+    "description": "Stream millions of songs, podcasts, and playlists from around the world.",
+    "size": 130,
+    "reviews": "38M",
+    "ratingAvg": 4.6,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": "1.8M" },
+      { "name": "2 star", "count": "2.1M" },
+      { "name": "3 star", "count": "3.5M" },
+      { "name": "4 star", "count": "9.4M" },
+      { "name": "5 star", "count": "21.2M" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+    "title": "WhatsApp",
+    "companyName": "Meta Platforms Inc.",
+    "id": 2,
+    "description": "Fast, simple, and secure messaging and calling for free, available worldwide.",
+    "size": 95,
+    "reviews": "180M",
+    "ratingAvg": 4.7,
+    "downloads": "5B+",
+    "ratings": [
+      { "name": "1 star", "count": "4M" },
+      { "name": "2 star", "count": "6M" },
+      { "name": "3 star", "count": "8M" },
+      { "name": "4 star", "count": "25M" },
+      { "name": "5 star", "count": "136M" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms Inc.",
+    "id": 3,
+    "description": "Share photos, videos, and connect with friends and creators around the world.",
+    "size": 120,
+    "reviews": "140M",
+    "ratingAvg": 4.4,
+    "downloads": "5B+",
+    "ratings": [
+      { "name": "1 star", "count": "8M" },
+      { "name": "2 star", "count": "9M" },
+      { "name": "3 star", "count": "12M" },
+      { "name": "4 star", "count": "34M" },
+      { "name": "5 star", "count": "77M" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/YouTube_Logo_2017.svg",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 4,
+    "description": "Watch, upload, and share videos. Discover music, news, and entertainment.",
+    "size": 150,
+    "reviews": "200M",
+    "ratingAvg": 4.3,
+    "downloads": "10B+",
+    "ratings": [
+      { "name": "1 star", "count": "10M" },
+      { "name": "2 star", "count": "12M" },
+      { "name": "3 star", "count": "17M" },
+      { "name": "4 star", "count": "47M" },
+      { "name": "5 star", "count": "114M" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/TikTok_Logo.svg",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "id": 5,
+    "description": "Create and discover short videos, explore trends, and join a global community.",
+    "size": 160,
+    "reviews": "98M",
+    "ratingAvg": 4.5,
+    "downloads": "3B+",
+    "ratings": [
+      { "name": "1 star", "count": "4M" },
+      { "name": "2 star", "count": "5M" },
+      { "name": "3 star", "count": "9M" },
+      { "name": "4 star", "count": "26M" },
+      { "name": "5 star", "count": "54M" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg",
+    "title": "Facebook",
+    "companyName": "Meta Platforms Inc.",
+    "id": 6,
+    "description": "Connect with friends, share updates, and join communities across the world.",
+    "size": 200,
+    "reviews": "120M",
+    "ratingAvg": 4.1,
+    "downloads": "5B+",
+    "ratings": [
+      { "name": "1 star", "count": "12M" },
+      { "name": "2 star", "count": "13M" },
+      { "name": "3 star", "count": "16M" },
+      { "name": "4 star", "count": "31M" },
+      { "name": "5 star", "count": "48M" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Gmail_icon_%282020%29.svg",
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "id": 7,
+    "description": "Secure, smart, and easy-to-use email app with spam protection and 15GB of storage.",
+    "size": 90,
+    "reviews": "64M",
+    "ratingAvg": 4.5,
+    "downloads": "10B+",
+    "ratings": [
+      { "name": "1 star", "count": "2M" },
+      { "name": "2 star", "count": "3M" },
+      { "name": "3 star", "count": "5M" },
+      { "name": "4 star", "count": "17M" },
+      { "name": "5 star", "count": "37M" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+    "title": "Netflix",
+    "companyName": "Netflix Inc.",
+    "id": 8,
+    "description": "Watch unlimited movies and TV shows anytime, anywhere, ad-free.",
+    "size": 180,
+    "reviews": "89M",
+    "ratingAvg": 4.4,
+    "downloads": "1.5B+",
+    "ratings": [
+      { "name": "1 star", "count": "4M" },
+      { "name": "2 star", "count": "5M" },
+      { "name": "3 star", "count": "7M" },
+      { "name": "4 star", "count": "23M" },
+      { "name": "5 star", "count": "50M" }
+    ]
+  }
+]
