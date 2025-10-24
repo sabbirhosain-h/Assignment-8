@@ -2,7 +2,7 @@ import React from "react";
 import { BsGithub } from "react-icons/bs";
 import { Link, NavLink } from "react-router";
 import '../AllApps/Apps.jsx';
-import "src/index.css"
+import "./../../../src/index.css"
 
 
 

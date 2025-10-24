@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import { useLoaderData, useParams } from "react-router";
 import { Bar, BarChart, CartesianGrid, Tooltip, XAxis, YAxis } from "recharts";
+import { addInDB } from "../../Pages/AddtoDb";
+ import { ToastContainer, toast } from 'react-toastify';
 
 
 
@@ -13,9 +15,18 @@ const SingleApp = () => {
 
     const [installBtn, setInstallBtn] = useState(false);
 
+    const notify = () => toast("Installing....");
+
+
     const handleInstall = () => {
         setInstallBtn(true);
     };
+
+
+    const forInstall = (appId) =>{
+          addInDB(appId);
+    };
+
 
     return (
         <div className="bg-[#D2D2D2] md:p-15">
@@ -49,9 +60,9 @@ const SingleApp = () => {
                         </div>
                   </div>
                   <div>
-                    <button onClick={handleInstall} disabled={installBtn} className={`mt-5 px-4 py-2 rounded-lg font-semibold text-white text-[20px] 
-        ${installBtn ? "bg-[#00d390] cursor-not-allowed" : "bg-[#00d390] hover:bg-[#04704e]"}`}>
-                       {installBtn ? "Installed" : `Install Now (${size} MB)`}
+                    <button onClick={() => { handleInstall(); forInstall(appId); notify() }} disabled={installBtn} className={`mt-5 px-4 py-2 rounded-lg font-semibold text-white text-[20px] 
+                      ${installBtn ? "bg-[#00d390] cursor-not-allowed" : "bg-[#00d390] hover:bg-[#04704e]"}`}>
+                       {installBtn ? "Installed" : `Install Now (${size} MB)`} <ToastContainer />
                     </button>
                   </div>
                   
