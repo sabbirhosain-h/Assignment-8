@@ -46,11 +46,11 @@ const Installation = () => {
                 <h1 className="text-[32px] md:text-[48px] font-700 mt-10">Your Installed Apps</h1>
                 <p className="mt-4 text-[20px] text-[#627382] font-400 ">Explore All Trending Apps on the Market developed by us</p>
             </div>
-            <div className="px-10 flex justify-between">
-                <h1 className="text-[#001931] text-[24px] font-600">({installed.length}) app found</h1>
+            <div className="px-4 md:px-10 flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 mb-4">
+                <h1 className="text-[#001931] text-[20px] sm:text-[22px] md:text-[24px] font-600">({installed.length}) app found</h1>
 
                 <div className="dropdown">
-                   <div tabIndex={0} role="button" className="btn m-1">Sort by size <FaCaretDown /></div>
+                   <div tabIndex={0} role="button" className="btn m-1 text-[14px] sm:text-[16px]">Sort by size <FaCaretDown /></div>
                        <ul tabIndex="-1" className=" dropdown-content menu bg-base-100 rounded-box z-1 w-52 p-2 shadow-sm">
                           <li><button onClick={() => handleSort("low")}>Low to High</button></li>
                           <li><button onClick={() => handleSort("high")}>High to Low</button></li>
@@ -62,7 +62,7 @@ const Installation = () => {
             </div>
 
                  {installed.length === 0 && (
-            <h1 className="text-center py-20 text-gray-600 text-xl font-medium">
+            <h1 className="text-center py-20 text-gray-600 text-lg sm:text-xl font-medium px-4">
           No apps installed 
             </h1>
           )}
@@ -70,33 +70,33 @@ const Installation = () => {
 
                 {
                     installed.map(installed => 
-                        <div key={installed.id} className="px-10 py-3">
+                        <div key={installed.id} className="px-4 md:px-10 py-3">
 
-                    <div className="p-4 w-full flex justify-between items-center bg-white rounded-xl">
-                            <div className="flex gap-5">
-                                <div>
-                                    <img className="w-15 h-15 rounded-xl" src={installed.image} alt="" />
+                    <div className="p-3 sm:p-4 w-full flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 bg-white rounded-xl">
+                            <div className="flex gap-3 sm:gap-5 w-full sm:w-auto">
+                                <div className="flex-shrink-0">
+                                    <img className="w-12 h-12 sm:w-15 sm:h-15 rounded-xl" src={installed.image} alt="" />
                                 </div>
-                                <div>
-                                    <h1 className="text-[20px] font-500 text-[#001931]">{installed.title}</h1>
-                                    <div className="flex gap-6 mt-3">
-                                        <div className="rounded-[4px]  w-[30px] flex items-center text-[16px] font-500 text-[#00D390]">
-                                            <img className="h-[16px] w-[16px] ml-1 mr-1" src="assets_pic/icon-downloads.png" alt="" />
+                                <div className="flex-grow">
+                                    <h1 className="text-[16px] sm:text-[18px] md:text-[20px] font-500 text-[#001931]">{installed.title}</h1>
+                                    <div className="flex flex-wrap gap-3 sm:gap-6 mt-2 sm:mt-3">
+                                        <div className="rounded-[4px] flex items-center text-[14px] sm:text-[16px] font-500 text-[#00D390]">
+                                            <img className="h-[14px] w-[14px] sm:h-[16px] sm:w-[16px] mr-1" src="assets_pic/icon-downloads.png" alt="" />
                                                 <h1>{installed.downloads}</h1>
                                         </div>
-                                        <div className="rounded-[4px]  w-[30px] flex items-center text-[16px] font-500 text-[#00D390]">
-                                            <img className="h-[16px] w-[16px] ml-1 mr-1" src="assets_pic/icon-ratings.png" alt="" />
+                                        <div className="rounded-[4px] flex items-center text-[14px] sm:text-[16px] font-500 text-[#00D390]">
+                                            <img className="h-[14px] w-[14px] sm:h-[16px] sm:w-[16px] mr-1" src="assets_pic/icon-ratings.png" alt="" />
                                                 <h1>{installed.ratingAvg}</h1>
                                         </div>
-                                        <h1 className="text-[16px] font-400 text-[#627382FF]" >
+                                        <h1 className="text-[14px] sm:text-[16px] font-400 text-[#627382FF]" >
                                             {installed.size} MB
                                         </h1>
 
                                     </div>
                                 </div>
                             </div>
-                            <div>
-                                <button  onClick={() => {handleUninstall(installed.id); notifyy()}} className="btn bg-[#00D390] text-white">Uninstall</button> 
+                            <div className="w-full sm:w-auto">
+                                <button  onClick={() => {handleUninstall(installed.id); notifyy()}} className="btn bg-[#00D390] text-white w-full sm:w-auto text-[14px] sm:text-[16px]">Uninstall</button> 
                                
                             </div>
                     </div>
