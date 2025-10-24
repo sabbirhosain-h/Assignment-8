@@ -1,0 +1,362 @@
+[ 
+  {
+    "image": "https://play-lh.googleusercontent.com/7ynvVIRdhJNAngCg_GI7i8TtH8BqkJYmffeUHsG-mJOdzt1XLvGmbsKuc5Q1SInBjDKN=w240-h480-rw",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 1,
+    "description": "Stream millions of songs, podcasts, and playlists from around the world with Spotify, the leading music streaming platform that transforms how you experience audio content. Discover an extensive library featuring tracks from every genre imaginable, including pop, rock, hip-hop, classical, jazz, electronic, and countless regional and international music styles. Create personalized playlists tailored to your mood, activity, or occasion, whether you're working out, studying, relaxing, or hosting a party. Enjoy curated playlists created by expert music editors and algorithms that learn your preferences over time, delivering daily mixes and weekly discoveries that introduce you to new artists and songs you'll love. Access millions of podcasts covering topics from true crime and comedy to business, technology, health, and personal development. Download your favorite content for offline listening when you're on the go without internet connection. Experience high-quality audio streaming with options for premium sound quality that brings out every detail in your music. Share tracks and playlists with friends, follow your favorite artists to stay updated on new releases, and explore collaborative playlists where multiple users can add songs. Connect Spotify to various devices including smartphones, tablets, computers, smart speakers, gaming consoles, and car systems for seamless listening across all your platforms. Discover new music through personalized recommendations based on your listening history and preferences.",
+    "size": 130,
+    "reviews": "38M",
+    "ratingAvg": 4.6,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star ", "count": 672 },
+      { "name": "2 star", "count": 4590 },
+      { "name": "3 star", "count": 8263 },
+      { "name": "4 star", "count": 10432 },
+      { "name": "5 star", "count": 11754 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN=s64-rw",
+    "title": "WhatsApp",
+    "companyName": "Meta Platforms Inc.",
+    "id": 2,
+    "description": "Fast, simple, and secure messaging and calling for free, available worldwide through WhatsApp, the most popular communication app trusted by billions of users across the globe. Send text messages instantly to individuals or groups, share photos and videos with friends and family, and make crystal-clear voice and video calls without any charges, regardless of distance or international boundaries. Benefit from end-to-end encryption that ensures your conversations remain private and secure, protecting your personal information from unauthorized access. Create group chats with up to hundreds of participants for coordinating events, planning trips, or staying connected with colleagues and communities. Share your location in real-time with trusted contacts, send voice messages when typing isn't convenient, and use the status feature to share photos, videos, and text updates that disappear after twenty-four hours. Exchange documents, PDFs, spreadsheets, and other files seamlessly for work or personal purposes. Make video calls with multiple participants for virtual family gatherings or business meetings. Customize your experience with themes, wallpapers, and notification settings. Access WhatsApp Web to send and receive messages from your computer while staying synchronized with your phone. Reply to messages directly from notifications without opening the app. Use WhatsApp Business features if you're running a company to communicate with customers professionally. Backup your chat history to cloud storage so you never lose important conversations. Send unlimited messages without SMS charges and stay connected with everyone who matters to you.",
+    "size": 95,
+    "reviews": "180M",
+    "ratingAvg": 4.7,
+    "downloads": "5B+",
+    "ratings": [
+      { "name": "1 star ", "count": 9321 },
+      { "name": "2 star", "count": 518 },
+      { "name": "3 star", "count": 7400 },
+      { "name": "4 star", "count": 8884 },
+      { "name": "5 star", "count": 11142 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM=s64-rw",
+    "title": "Instagram",
+    "companyName": "Meta Platforms Inc.",
+    "id": 3,
+    "description": "Share photos, videos, and connect with friends and creators around the world through Instagram, the premier visual storytelling platform that brings together billions of people through creative expression and meaningful connections. Capture and share your life's moments through stunning photos and videos enhanced with professional-quality filters, editing tools, and creative effects that make your content stand out. Create engaging Stories that disappear after twenty-four hours, featuring interactive elements like polls, questions, quizzes, countdowns, and music to boost engagement with your audience. Produce short-form video content with Reels, Instagram's answer to viral video trends, complete with audio, effects, and creative tools to showcase your personality and talents. Go live to broadcast in real-time to your followers, hosting Q&A sessions, tutorials, performances, or casual conversations that foster authentic connections. Send direct messages to individuals or groups, sharing posts, creating group chats, and using voice messages or video calls for more personal communication. Explore trending content tailored to your interests through the Explore page, discovering new accounts, hashtags, and topics that align with your passions. Follow your favorite celebrities, influencers, brands, artists, and creators to stay updated on their latest posts and activities. Shop directly from posts and stories through Instagram Shopping, discovering products from brands you love and making purchases without leaving the app. Use IGTV for longer video content, create highlights to save important stories on your profile permanently, and organize your posts into collections for easy reference.",
+    "size": 120,
+    "reviews": "140M",
+    "ratingAvg": 4.4,
+    "downloads": "5B+",
+    "ratings": [
+      { "name": "1 star ", "count": 2289 },
+      { "name": "2 star", "count": 4013 },
+      { "name": "3 star", "count": 6287 },
+      { "name": "4 star", "count": 9428 },
+      { "name": "5 star", "count": 11996 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/6am0i3walYwNLc08QOOhRJttQENNGkhlKajXSERf3JnPVRQczIyxw2w3DxeMRTOSdsY=s64-rw",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 4,
+    "description": "Watch, upload, and share videos with billions of users worldwide through YouTube, the world's largest video platform offering unlimited entertainment, education, and inspiration. Discover an infinite library of content spanning every imaginable category, from music videos and movie trailers to educational tutorials, cooking shows, gaming streams, news broadcasts, documentaries, comedy sketches, vlogs, and so much more. Subscribe to your favorite channels to never miss new uploads from creators you love, whether they're independent content creators, major media companies, educational institutions, or entertainment brands. Create your own channel to share your passions, knowledge, skills, or creativity with a global audience, potentially building a community and even earning revenue through the YouTube Partner Program. Enjoy personalized recommendations powered by sophisticated algorithms that learn your viewing preferences and suggest videos you're likely to enjoy based on your watch history and engagement patterns. Stream live events including concerts, sports matches, gaming tournaments, product launches, and breaking news as they happen in real-time. Access YouTube Music for dedicated music streaming, YouTube Kids for child-friendly content with parental controls, and YouTube Premium for ad-free viewing, background playback, and offline downloads. Comment on videos to engage with creators and other viewers, participate in discussions, share your thoughts, and build connections within communities centered around shared interests. Use playlists to organize videos for later viewing, learning sequences, or mood-based entertainment. Cast videos to your TV or smart devices for bigger screen enjoyment.",
+    "size": 150,
+    "reviews": "200M",
+    "ratingAvg": 4.3,
+    "downloads": "10B+",
+    "ratings": [
+      { "name": "1 star ", "count": 745 },
+      { "name": "2 star", "count": 2300 },
+      { "name": "3 star", "count": 6105 },
+      { "name": "4 star", "count": 9102 },
+      { "name": "5 star", "count": 11209 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/sUXm7uP_c8ysJqwOkbmIpBnDee_6lJJCPODRP4DOCuFWp9Gq-_X_oqY9NTJ2OIEGtQ=s64-rw",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "id": 5,
+    "description": "Create and discover short videos, explore trends, and join a global community through TikTok, the revolutionary short-form video platform that has transformed social media and entertainment for millions worldwide. Express your creativity using intuitive video creation tools including filters, effects, transitions, green screen capabilities, text overlays, and an extensive music library featuring trending songs and audio clips from across the internet. Participate in viral challenges, dance trends, comedy sketches, educational content, cooking tutorials, DIY projects, fashion showcases, and countless other creative formats that define modern internet culture. Discover content through the For You Page, a personalized feed powered by advanced algorithms that curate videos based on your interests, engagement patterns, and viewing behavior, ensuring you always find entertaining and relevant content. Follow creators who inspire you, like and comment on videos to show appreciation and join conversations, share content with friends through direct messages or other social platforms, and duet or stitch with other users' videos to create collaborative content. Build your own following by consistently posting engaging content, using popular hashtags, participating in trends, and developing your unique style or niche that resonates with audiences. Access extensive editing features including speed controls, countdown timers, beauty filters, AR effects, and professional-grade tools that make creating polished content accessible to everyone regardless of technical expertise. Explore different content categories through dedicated tabs, livestream to connect with followers in real-time, and engage with a truly global community representing diverse cultures, languages, perspectives, and creative expressions from every corner of the world.",
+    "size": 160,
+    "reviews": "98M",
+    "ratingAvg": 4.5,
+    "downloads": "3B+",
+    "ratings": [
+      { "name": "1 star ", "count": 1034 },
+      { "name": "2 star", "count": 2605 },
+      { "name": "3 star", "count": 4922 },
+      { "name": "4 star", "count": 9800 },
+      { "name": "5 star", "count": 11863 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/KCMTYuiTrKom4Vyf0G4foetVOwhKWzNbHWumV73IXexAIy5TTgZipL52WTt8ICL-oIo=s64-rw",
+    "title": "Facebook",
+    "companyName": "Meta Platforms Inc.",
+    "id": 6,
+    "description": "Connect with friends, share updates, and join communities across the world through Facebook, the original social networking platform that revolutionized how billions of people communicate, share experiences, and stay connected with their social circles. Share text updates, photos, videos, and life events on your timeline to keep friends and family informed about your activities, thoughts, milestones, and daily experiences. React to posts with various emotions including likes, loves, laughs, and other reactions to express your feelings without typing comments. Browse your News Feed to see updates from friends, family members, pages you follow, and groups you've joined, all curated by algorithms designed to show you the most relevant and engaging content. Join groups based on shared interests, local communities, professional networks, hobby enthusiasts, support networks, or any other common ground to connect with like-minded individuals and participate in focused discussions. Discover and follow pages from businesses, public figures, organizations, media outlets, and brands to stay informed about topics that matter to you. Use Facebook Marketplace to buy and sell items locally, browse listings in your area, negotiate with sellers, and find great deals on everything from furniture and electronics to vehicles and real estate. Organize and promote events, send invitations to friends, track RSVPs, and manage gatherings whether they're small get-togethers or large community events. Play games, watch videos through Facebook Watch, access Facebook Dating to find romantic connections, create fundraisers for causes you care about, and use Messenger integration for instant communication.",
+    "size": 200,
+    "reviews": "120M",
+    "ratingAvg": 4.1,
+    "downloads": "5B+",
+    "ratings": [
+      { "name": "1 star ", "count": 222 },
+      { "name": "2 star", "count": 1688 },
+      { "name": "3 star", "count": 5890 },
+      { "name": "4 star", "count": 8780 },
+      { "name": "5 star", "count": 11444 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=s64-rw",
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "id": 7,
+    "description": "Secure, smart, and easy-to-use email app with spam protection, 15GB of free storage, and seamless integration across devices, making Gmail the world's most popular email service trusted by billions of users for personal and professional communication. Experience intelligent email management with automatic categorization that sorts messages into Primary, Social, and Promotions tabs, helping you focus on important emails while keeping promotional content organized and accessible when needed. Benefit from industry-leading spam filtering that automatically detects and blocks suspicious emails, phishing attempts, and malicious content to protect your account security and privacy. Search through your entire email history instantly using powerful search capabilities that let you find specific messages, attachments, contacts, or keywords within seconds, even across thousands of emails spanning years. Compose emails with rich text formatting, attach files of various types including documents, photos, videos, and presentations directly from your device or cloud storage services. Use labels and filters to create custom organization systems that automatically sort incoming emails based on sender, subject, keywords, or other criteria you define. Enable Smart Reply and Smart Compose features that suggest quick responses and auto-complete sentences based on your writing style and common phrases, saving time when responding to routine emails. Access your emails offline, schedule emails to send at specific times, set reminders for important messages, and use confidential mode to send sensitive information with additional security measures including expiration dates and SMS passcodes.",
+    "size": 90,
+    "reviews": "64M",
+    "ratingAvg": 4.5,
+    "downloads": "10B+",
+    "ratings": [
+      { "name": "1 star ", "count": 900 },
+      { "name": "2 star", "count": 3002 },
+      { "name": "3 star", "count": 7550 },
+      { "name": "4 star", "count": 9902 },
+      { "name": "5 star", "count": 12000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI=s64-rw",
+    "title": "Netflix",
+    "companyName": "Netflix Inc.",
+    "id": 8,
+    "description": "Watch unlimited movies and TV shows anytime, anywhere, completely ad-free through Netflix, the world's leading streaming entertainment service offering an unparalleled selection of award-winning original content, Hollywood blockbusters, classic films, and television series across every genre imaginable. Enjoy exclusive Netflix Originals including critically acclaimed series, documentaries, feature films, stand-up comedy specials, and reality shows produced specifically for the platform and unavailable anywhere else. Browse through extensive categories spanning action, drama, comedy, romance, thriller, horror, science fiction, fantasy, documentary, anime, children's programming, and international content from dozens of countries in multiple languages. Create up to five separate profiles within one account, each with personalized recommendations based on individual viewing preferences, watch history, and ratings, ensuring everyone in your household gets content suggestions tailored to their unique tastes. Download movies and shows for offline viewing when traveling or in areas without internet connectivity, perfect for flights, road trips, or commutes. Resume watching seamlessly across multiple devices including smartphones, tablets, computers, smart TVs, gaming consoles, and streaming devices, with viewing progress automatically synchronized so you can start watching on one device and continue on another without missing a beat. Customize your viewing experience with subtitle options in numerous languages, audio descriptions for visually impaired viewers, and parental controls to restrict content based on maturity ratings. Discover new content through personalized recommendations, curated collections, trending lists, and detailed preview trailers.",
+    "size": 180,
+    "reviews": "89M",
+    "ratingAvg": 4.4,
+    "downloads": "1.5B+",
+    "ratings": [
+      { "name": "1 star ", "count": 440 },
+      { "name": "2 star", "count": 1320 },
+      { "name": "3 star", "count": 4780 },
+      { "name": "4 star", "count": 8950 },
+      { "name": "5 star", "count": 11090 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q=s64-rw",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 9,
+    "description": "Cloud-based messaging app focused on speed and security, offering a powerful alternative to traditional messaging platforms with features designed for privacy-conscious users, power users, and communities seeking advanced communication tools. Send messages that sync instantly across all your devices including phones, tablets, and computers through cloud storage, ensuring you never lose conversations and can access your message history from anywhere. Share files of any type up to 2GB in size, far exceeding limitations of other messaging apps, making Telegram ideal for sharing large videos, documents, high-resolution images, and extensive file collections with friends, colleagues, or clients. Create channels to broadcast messages to unlimited subscribers, perfect for businesses, content creators, news organizations, or anyone wanting to share updates with a large audience in one-way communication format. Join groups with up to hundreds of thousands of members, participate in vibrant communities centered around specific interests, topics, locations, or causes, and engage in discussions with like-minded individuals from around the world. Use Secret Chats with end-to-end encryption, self-destructing messages, and screenshot notifications for maximum privacy when discussing sensitive topics. Customize your experience extensively with themes, chat backgrounds, sticker packs created by artists worldwide, animated emojis, and bot integrations that add functionality like news updates, translation services, games, and productivity tools. Make voice and video calls with crystal-clear quality, send voice messages when typing isn't convenient, share your live location, create polls for group decisions, and schedule messages to send at specific times.",
+    "size": 80,
+    "reviews": "45M",
+    "ratingAvg": 4.5,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star ", "count": 1550 },
+      { "name": "2 star", "count": 2400 },
+      { "name": "3 star", "count": 6850 },
+      { "name": "4 star", "count": 9200 },
+      { "name": "5 star", "count": 11700 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/KxeSAjPTKliCErbivNiXrd6cTwfbqUJcbSRPe_IBVK_YmwckfMRS1VIHz-5cgT09yMo=s64-rw",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 10,
+    "description": "Share moments, send snaps, and stay connected with your close friends through Snapchat, the pioneering visual messaging app that revolutionized ephemeral content and continues to innovate with cutting-edge augmented reality experiences and creative communication tools. Send photos and videos called Snaps that disappear after being viewed, encouraging authentic, spontaneous sharing without the pressure of permanent posts or curated perfection. Apply thousands of creative lenses and filters using advanced augmented reality technology that transforms your appearance, adds animations, creates interactive games, provides educational overlays, and offers branded experiences from major companies and entertainment franchises. Post Stories that remain visible for twenty-four hours, allowing friends to view your day's highlights, adventures, thoughts, and experiences through a chronological sequence of Snaps that paint a fuller picture of your life. Discover professionally produced content from publishers, creators, and brands through the Discover section, featuring news, entertainment, sports highlights, original shows, behind-the-scenes footage, and exclusive content you won't find elsewhere. Watch Spotlight videos showcasing the most entertaining Snaps from the Snapchat community, similar to other short-form video platforms but with unique Snapchat creative tools and community culture. Use Snap Map to see where your friends are hanging out, explore events happening nearby, discover popular locations, and share your own location when you want others to know where you are. Send text messages through chat, make voice and video calls, create group chats for coordinating with multiple friends, and play games together within the app.",
+    "size": 140,
+    "reviews": "52M",
+    "ratingAvg": 4.2,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star ", "count": 310 },
+      { "name": "2 star", "count": 1990 },
+      { "name": "3 star", "count": 5300 },
+      { "name": "4 star", "count": 8500 },
+      { "name": "5 star", "count": 11220 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/XyI6Hyz9AFg7E_joVzX2zh6CpWm9B2DG2JuEz5meCFVm4-wTKTnHgqbmg62iFKe4Gzca=s64-rw",
+    "title": "Twitter (X)",
+    "companyName": "X Corp.",
+    "id": 11,
+    "description": "Join the conversation and follow what's happening around the world in real time through Twitter, now known as X, the premier platform for breaking news, trending topics, live discussions, and direct engagement with thought leaders, celebrities, journalists, and people from every walk of life. Post tweets containing text, photos, videos, GIFs, and polls to share your thoughts, opinions, news, jokes, observations, or any content you want to broadcast to your followers and potentially millions of others if your tweet goes viral. Follow accounts that interest you including news organizations, politicians, athletes, entertainers, experts in various fields, friends, family members, and brands to curate a personalized timeline reflecting your interests and priorities. Engage with tweets by liking them to show appreciation, retweeting to share with your followers, quote tweeting to add your own commentary, or replying to participate in conversations and discussions with the original poster and other users. Stay informed about breaking news as it happens, with journalists, eyewitnesses, and official sources often sharing updates on Twitter before traditional media outlets can publish stories. Discover trending topics and hashtags that show what subjects are generating the most discussion at any given moment, allowing you to dive into popular conversations and see diverse perspectives on current events. Use advanced search features to find tweets about specific topics, from particular accounts, within certain date ranges, or containing specific keywords, making Twitter an invaluable research tool. Create and join Twitter Spaces for live audio conversations with participants from around the world, hosting discussions, Q&A sessions, interviews, or casual chats. Customize your timeline with lists organizing accounts by topic or category.",
+    "size": 130,
+    "reviews": "100M",
+    "ratingAvg": 4.0,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star ", "count": 1456 },
+      { "name": "2 star", "count": 2990 },
+      { "name": "3 star", "count": 6275 },
+      { "name": "4 star", "count": 9400 },
+      { "name": "5 star", "count": 11800 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/6CFQQ0b9r5fzF1v6f0gIirWsOGL7sGWkJifuUQxxhbCMcBx5aSG_cNXpjDKDn5c1jwjq=s64-rw",
+    "title": "Pinterest",
+    "companyName": "Pinterest Inc.",
+    "id": 12,
+    "description": "Discover ideas for every interest from fashion to home decor and recipes through Pinterest, the visual discovery platform that serves as your personal catalog of inspiration, helping you find, save, and organize ideas for projects, life events, hobbies, and everything in between. Pin images and videos to organized boards based on themes like wedding planning, home renovation, recipes to try, travel destinations, fashion inspiration, DIY projects, workout routines, parenting tips, gardening ideas, or any other category you can imagine, creating visual collections that reflect your interests and goals. Browse your personalized feed filled with recommendations based on your pins, searches, and engagement, discovering new ideas from millions of users, brands, and creators who share content across countless categories and niches. Search using keywords or visual search technology that lets you take photos of items and find similar products, styles, or ideas, making Pinterest an incredibly powerful tool for finding exactly what you're looking for even when you can't describe it in words. Shop directly from pins with integrated shopping features that connect you with retailers selling products you've discovered, complete with pricing information, availability, and links to purchase, transforming inspiration into action. Follow creators and boards that consistently share content you love, ensuring your feed stays fresh with new ideas aligned with your evolving interests. Try ideas you've saved with step-by-step instructions, ingredient lists, supply requirements, and tips from other users who've attempted the same projects. Organize boards into sections for more detailed categorization, keep some boards private for personal planning, and collaborate on group boards with friends or family when planning shared projects or events.",
+    "size": 110,
+    "reviews": "38M",
+    "ratingAvg": 4.6,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star ", "count": 890 },
+      { "name": "2 star", "count": 2700 },
+      { "name": "3 star", "count": 6125 },
+      { "name": "4 star", "count": 9800 },
+      { "name": "5 star", "count": 11900 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/NaFAbO7ExS4NRAvt2GYkNY6OQf9oVXwmdMTZzA6zrgjjSxhQuTCnjHyf7TgYcoSGqQ=s64-rw",
+    "title": "Reddit",
+    "companyName": "Reddit Inc.",
+    "id": 13,
+    "description": "Join thousands of communities, share ideas, and explore trending topics through Reddit, the self-proclaimed front page of the internet where millions of users participate in discussions, share content, and build communities around virtually every subject, interest, hobby, or question you can imagine. Subscribe to subreddits dedicated to specific topics ranging from broad categories like news, technology, science, and entertainment to incredibly niche interests like vintage fountain pens, specific video games, local communities, medical conditions, career advice, relationship support, or obscure hobbies that bring together people from across the globe. Post original content, share links to interesting articles or websites, upload photos and videos, or create text posts asking questions, sharing stories, seeking advice, or sparking discussions that other community members can respond to with their own experiences, knowledge, and perspectives. Upvote content you find valuable, interesting, funny, or helpful to increase its visibility, or downvote content that doesn't contribute meaningfully to discussions, creating a democratic system where community members collectively determine what content rises to the top. Comment on posts to engage in conversations, provide additional information, share your viewpoint, offer support, crack jokes, or ask follow-up questions, with threaded conversations allowing for detailed discussions that can span dozens or hundreds of replies. Earn karma points based on how other users vote on your posts and comments, serving as a measure of your contributions and standing within the community. Discover new content through your personalized home feed, browse specific subreddits, check out trending posts across the platform, or use Reddit's powerful search functionality to find discussions about any topic.",
+    "size": 100,
+    "reviews": "25M",
+    "ratingAvg": 4.3,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "1 star ", "count": 700 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 5200 },
+      { "name": "4 star", "count": 8700 },
+      { "name": "5 star", "count": 11500 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/0oO5sAneb9lJP6l8c6DH4aj6f85qNpplQVHmPmbbBxAukDnlO7DarDW0b-kEIHa8SQ=s64-rw",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 14,
+    "description": "Voice, video, and text chat for communities, gaming groups, and friends through Discord, the versatile communication platform originally designed for gamers but now embraced by communities of all types including study groups, book clubs, art collectives, professional networks, hobby enthusiasts, and friend groups seeking a centralized hub for staying connected. Create or join servers which act as dedicated spaces for specific communities, each containing multiple channels organized by topic, purpose, or activity type, allowing for structured conversations that keep discussions focused and searchable. Participate in text channels for ongoing conversations, quick questions, sharing links and media, or asynchronous communication that members can catch up on at their convenience. Use voice channels for real-time conversations, gaming sessions, virtual hangouts, study groups, podcast recordings, or any situation where talking is more efficient or enjoyable than typing. Host video calls with screen sharing capabilities perfect for presentations, watching content together, demonstrating software or games, remote work collaboration, or face-to-face conversations with multiple participants. Integrate bots that add powerful functionality like music playback, moderation tools, games, polls, custom commands, automated announcements, role management, and countless other features created by the vibrant Discord developer community. Customize your server with roles that grant different permissions and visual distinctions to members, create custom emojis unique to your community, design channel categories for organization, and set up rules and moderation systems to maintain healthy community standards. Share your screen with others during calls, send direct messages to individuals outside of server contexts, adjust notification settings to avoid being overwhelmed by active communities, and use Discord across all your devices with synchronized message history and settings.",
+    "size": 150,
+    "reviews": "32M",
+    "ratingAvg": 4.5,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "1 star ", "count": 600 },
+      { "name": "2 star", "count": 1800 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 9300 },
+      { "name": "5 star", "count": 12000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/yZsmiNjmji3ZoOuLthoVvptLB9cZ0vCmitcky4OUXNcEFV3IEQkrBD2uu5kuWRF5_ERA=s64-rw",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications Inc.",
+    "id": 15,
+    "description": "Zoom is a widely used video conferencing application that allows people to connect virtually through high-quality video, audio, and chat. Originally launched in 2013, Zoom has become one of the most popular communication tools for remote work, online learning, and virtual events. The platform provides users with an easy-to-use interface that supports one-on-one meetings, group conferences, webinars, and large-scale online sessions with thousands of participants.\nOne of Zoom's strongest features is its reliability and smooth performance, even on slower internet connections. It offers features such as screen sharing, virtual backgrounds, breakout rooms, meeting recording, and live captions — all designed to enhance collaboration and engagement. The app also integrates with popular platforms like Google Workspace, Microsoft Teams, and Slack, making it convenient for both professional and educational use.\nZoom's cross-platform compatibility allows users to join meetings from computers, smartphones, or tablets, ensuring accessibility from anywhere. Its free plan offers meetings of up to 100 participants for 40 minutes, while paid plans provide extended time limits and advanced features such as cloud storage, administrative controls, and enhanced security.\nSecurity and privacy have been improved over time, with options like end-to-end encryption and password-protected meetings. Overall, Zoom has transformed the way people communicate, bridging distances and enabling seamless interaction for businesses, schools, and individuals worldwide. It remains a top choice for virtual communication thanks to its versatility, ease of use, and constant innovation.",
+    "size": 180,
+    "reviews": "55M",
+    "ratingAvg": 4.3,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star ", "count": 950 },
+      { "name": "2 star", "count": 2700 },
+      { "name": "3 star", "count": 6900 },
+      { "name": "4 star", "count": 9700 },
+      { "name": "5 star", "count": 11500 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=s64-rw",
+    "title": "LinkedIn",
+    "companyName": "Microsoft Corporation",
+    "id": 16,
+    "description": "LinkedIn is a professional networking application designed to help individuals and businesses connect, share opportunities, and build careers. Launched in 2003, LinkedIn has evolved into the world's largest professional network, with hundreds of millions of users across industries and countries. The app allows users to create detailed profiles showcasing their education, skills, experience, and achievements, serving as an online résumé and career portfolio. LinkedIn enables professionals to expand their network by connecting with colleagues, recruiters, and industry leaders. It provides a platform for users to share posts, articles, and professional updates, fostering discussions and knowledge exchange. Job seekers can explore millions of job listings tailored to their skills and preferences, while employers can post openings, screen applicants, and recruit top talent through advanced search and AI-powered tools. The app also offers learning opportunities through LinkedIn Learning, which provides thousands of online courses on topics such as business, technology, and personal development. This feature helps users continuously upgrade their skills and stay competitive in their fields. With features like endorsements, recommendations, and professional messaging, LinkedIn encourages authentic engagement and credibility building. Its algorithm curates content based on user interests, making it easy to stay informed about industry trends and news. Overall, LinkedIn has become more than just a job-hunting platform — it's a dynamic community for professional growth, networking, and knowledge sharing. It empowers individuals to manage their careers and helps businesses strengthen their brand presence in the global professional landscape.",
+    "size": 170,
+    "reviews": "24M",
+    "ratingAvg": 4.4,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star ", "count": 300 },
+      { "name": "2 star", "count": 1400 },
+      { "name": "3 star", "count": 5300 },
+      { "name": "4 star", "count": 9100 },
+      { "name": "5 star", "count": 11800 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA=s64-rw",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 17,
+    "description": "**Google Maps** is a powerful navigation and mapping application developed by Google that helps users explore the world with accurate directions, real-time traffic updates, and detailed geographic information. Launched in 2005, it has become one of the most essential apps for travelers, drivers, and everyday users alike. The app offers multiple viewing modes, including street view, satellite imagery, and terrain maps, allowing users to visualize locations from different perspectives. With Google Maps, users can easily find the best routes for driving, walking, cycling, or public transportation. It provides real-time traffic updates, estimated travel times, and alternate route suggestions to help users reach their destinations efficiently. The app also includes features such as voice-guided navigation, lane guidance, and offline maps, which make traveling convenient even without an internet connection. Beyond navigation, Google Maps serves as a local discovery tool. Users can search for nearby restaurants, hotels, gas stations, hospitals, or tourist attractions, along with detailed reviews, photos, and business information. It also integrates with Google services like Google Search and Google Assistant, enhancing its overall usability. For businesses, Google Maps plays a crucial role in visibility and customer engagement through **Google Business Profiles**, allowing companies to showcase their locations and services to potential customers. Overall, Google Maps has revolutionized how people navigate and explore the world. Its combination of accuracy, accessibility, and smart technology makes it an indispensable tool for daily commuting, travel planning, and discovering new places globally.",
+    "size": 210,
+    "reviews": "90M",
+    "ratingAvg": 4.5,
+    "downloads": "10B+",
+    "ratings": [
+      { "name": "1 star ", "count": 700 },
+      { "name": "2 star", "count": 2400 },
+      { "name": "3 star", "count": 6400 },
+      { "name": "4 star", "count": 9500 },
+      { "name": "5 star", "count": 12000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/t-juVwXA8lDAk8uQ2L6d6K83jpgQoqmK1icB_l9yvhIAQ2QT_1XbRwg5IpY08906qEw=s64-rw",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "id": 18,
+    "description": "Access and share your files securely, anytime, anywhere, with 15GB free storage.",
+    "size": 190,
+    "reviews": "68M",
+    "ratingAvg": 4.6,
+    "downloads": "10B+",
+    "ratings": [
+      { "name": "1 star ", "count": 580 },
+      { "name": "2 star", "count": 2050 },
+      { "name": "3 star", "count": 5450 },
+      { "name": "4 star", "count": 9200 },
+      { "name": "5 star", "count": 11750 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/n109V9dur2NFwV7Fbr8lwlU-isXRR0K7Q-pvp1LCyRwTVP2DfJaR-dklmXzK0MhQuz9E=s64-rw",
+    "title": "Uber",
+    "companyName": "Uber Technologies Inc.",
+    "id": 19,
+    "description": "**Uber** is a globally recognized ride-hailing application that connects passengers with drivers through an easy-to-use digital platform, revolutionizing urban transportation since its launch in 2009. The app allows users to request rides with just a few taps, track their driver's location in real time, and make secure, cashless payments through multiple options. Uber's services go beyond traditional car rides — it offers various categories such as UberX for affordable everyday travel, Uber Black for luxury rides, and Uber Pool for shared, cost-efficient commuting. In many regions, the app also provides additional features like **Uber Eats** for food delivery and **Uber Moto** or **Uber Auto** for quick two- or three-wheeler transport. Uber uses GPS technology to calculate optimal routes and estimated arrival times while providing transparent pricing before the trip begins. Safety is a key focus, with features like driver background checks, real-time ride tracking, emergency assistance, and driver/passenger rating systems to ensure trust and accountability. The app's user-friendly interface, reliability, and global reach make it one of the most convenient ways to travel, especially in cities where traditional taxis are less accessible. Furthermore, Uber has contributed to economic opportunities by offering flexible income sources for millions of drivers worldwide. Constantly innovating, Uber is expanding into electric vehicles and autonomous transport solutions, reflecting its commitment to sustainable mobility. Overall, Uber has transformed the way people move, making transportation faster, smarter, and more connected across the globe.",
+    "size": 175,
+    "reviews": "85M",
+    "ratingAvg": 4.2,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star ", "count": 1100 },
+      { "name": "2 star", "count": 2600 },
+      { "name": "3 star", "count": 7000 },
+      { "name": "4 star", "count": 9700 },
+      { "name": "5 star", "count": 11900 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/1Ns1T_qN0pEXMvZeZ5lQNAR8z4blP7ce2J2Nn5doXvt2T1g_W7VMORdWHaApkOooupI=s64-rw",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "id": 20,
+    "description": "Amazon is one of the world's largest and most trusted e-commerce applications, designed to provide a seamless online shopping experience for millions of users globally. Developed by Amazon Inc., the app allows customers to browse and purchase a vast range of products — from electronics, clothing, and books to groceries, home appliances, and digital devices — all from the convenience of their smartphones. Its user-friendly interface offers personalized recommendations, detailed product descriptions, customer reviews, and secure payment options, making online shopping fast, reliable, and convenient. With advanced search filters and voice-assisted shopping through Alexa, users can easily find what they need in seconds. Amazon's fast and efficient delivery system, including Amazon Prime, provides benefits like one-day or same-day shipping, exclusive deals, and access to entertainment services such as Prime Video and Prime Music. The app also supports order tracking, easy returns, and customer support, ensuring a smooth post-purchase experience. Moreover, Amazon offers additional features like Amazon Pay for digital transactions and Amazon Fresh for grocery deliveries, expanding its services beyond retail. For sellers, the platform provides opportunities to reach a massive global market through Amazon Seller Central. Its integration of technology, convenience, and customer satisfaction has made Amazon a dominant force in global retail. Overall, the Amazon app has revolutionized how people shop, transforming traditional commerce into a smart, efficient, and accessible digital experience that continues to evolve with innovation and customer needs.",
+    "size": 160,
+    "reviews": "110M",
+    "ratingAvg": 4.4,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star ", "count": 350 },
+      { "name": "2 star", "count": 1950 },
+      { "name": "3 star", "count": 5750 },
+      { "name": "4 star", "count": 8800 },
+      { "name": "5 star", "count": 11300 }
+    ]
+  }
+]

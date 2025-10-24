@@ -23,14 +23,14 @@ const Navber = () => {
       </ul>
     </div>
         <Link to='/'><div className="flex items-center gap-2">
-            <img className="h-[40px] w-[40px]" src="assets_pic/logo.png" alt="" />
+            <img className="h-[40px] w-[40px]" src="https://i.ibb.co.com/jZ8t0KmW/logo.png" alt="" />
             <h1 className="text-[20px] font-700 text-[#632ee3]">HERO.IO</h1>
         </div></Link>
 
 
   </div>
   <div className="navbar-center hidden lg:flex">
-    <ul className="menu menu-horizontal px-1 gap-4">
+    <ul className="menu menu-horizontal px-1 gap-4 text-[16px] font-500">
       <Link to='/'><li>Home</li></Link>
       <Link to='/Apps'><li>App</li></Link>
       <Link to='/Installation'><li>Installation</li></Link>

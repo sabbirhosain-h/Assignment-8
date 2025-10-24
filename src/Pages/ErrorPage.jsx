@@ -6,10 +6,10 @@ import { Link } from 'react-router';
 const ErrorPage = () => {
     return (
         <><Navber></Navber>
-        <div className='bg-gray-300'>
+        <div className='bg-[#D2D2D2]'>
 
             <div className='p-10 flex justify-around items-center'>
-                <img src="assets_pic/error-404.png" alt="" />
+                <img src="https://i.ibb.co.com/GQBdJqcg/error-404.png" alt="" />
             </div>
             <div className='text-center '>
                 <h1 className='text-[60px] font-700'>Oops, page not found!</h1>

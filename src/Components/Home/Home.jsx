@@ -1,20 +1,20 @@
 import React from "react";
 import { IoLogoGooglePlaystore } from "react-icons/io5";
 import { FaAppStore } from "react-icons/fa";
-import { useLoaderData } from "react-router";
+import { Link, useLoaderData } from "react-router";
 
 
 const Home = () => {
 
    const homeData = useLoaderData();
-   console.log(homeData);
-
+  const [{id}] = homeData
+  
 
 
 return(
     <div>
-           <div className="bg-gray-300 py-10 text-center px-4 md:px-0">
-                <h1 className="text-[40px] md:text-[72px] font-600">We Build <br /> <span className="text-[#9f62f2] text-[40px] md:text-[72px] font-600">Productive</span> Apps</h1>
+           <div className="bg-[#D2D2D2] py-10 text-center px-4 md:px-0">
+                <h1 className="text-[40px] md:text-[72px] font-600">We Build <br /> <span className="bg-gradient-to-r from-[#632ee3] to-[#9f62f2] text-transparent bg-clip-text text-[40px] md:text-[72px] font-600">Productive</span> Apps</h1>
                 <p className="text-[16px] md:text-[20px] font-400 text-[#627382] max-w-4xl mx-auto px-4">
                     At HERO.IO , we craft innovative apps designed to make everyday life simpler, smarter, and more exciting. Our goal is to turn your ideas into digital experiences that truly make an impact.
                 </p>
@@ -61,12 +61,13 @@ return(
 
             </div>
 
-              <div className="bg-gray-300 grid md:grid-cols-4 sm:grid-cols-2 grid-cols-1 gap-4 px-4 md:px-10 pb-10">
-                
-                
+              <Link to={`/SingleApp/${id}`} >
+              <div className="bg-[#D2D2D2] grid md:grid-cols-4 sm:grid-cols-2 grid-cols-1 gap-4 px-4 md:px-10 pb-10">
+                              
                 {
                     homeData.map(app => (
-                        <div className="bg-white mx-auto rounded-[8px] w-full max-w-[280px] shadow-sm p-3">
+                       <Link key={app.id} to={`/SingleApp/${app.id}`}>
+                         <div key={app.id} className="bg-white mx-auto rounded-[8px] w-full max-w-[280px] shadow-sm p-3 hover:shadow-lg hover:scale-105 duration-300">
                         <figure>
                              <img className="rounded-[8px] w-full" src={app.image}  alt="" />
                          </figure>
@@ -77,11 +78,18 @@ return(
                             <div className="rounded-[4px] bg-[#FFF0E1] w-[40px] flex items-center text-[16px] font-500 text-[#FF8811]"><img className="h-[16px] w-[16px] ml-1 mr-1" src="assets_pic/icon-ratings.png" alt="" />{app.ratingAvg}</div>
                      </div>
                         </div>
+                       </Link>
                     ))
                 }
 
 
+                </div>
+              </Link>
 
+                <div className="bg-[#D2D2D2] flex justify-around items-center py-10">
+                   <Link to='/Apps'> <button className="btn bg-linear-to-r from-[#632ee3] to-[#9f62f2] text-white text-[16px] md:text-[20px] font-600 w-full md:w-auto max-w-xs rounded-[4px]">
+                      Show All
+                     </button> </Link>
                 </div>
              </div>
 );

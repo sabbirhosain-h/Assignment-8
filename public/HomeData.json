@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
+    "image": "https://play-lh.googleusercontent.com/7ynvVIRdhJNAngCg_GI7i8TtH8BqkJYmffeUHsG-mJOdzt1XLvGmbsKuc5Q1SInBjDKN=w240-h480-rw",
     "title": "Spotify",
     "companyName": "Spotify AB",
     "id": 1,
@@ -10,7 +10,7 @@
     "ratingAvg": 4.6,
     "downloads": "1B+",
     "ratings": [
-      { "name": "1 star", "count": "1.8M" },
+      { "name": "1 star ", "count": "1.8M" },
       { "name": "2 star", "count": "2.1M" },
       { "name": "3 star", "count": "3.5M" },
       { "name": "4 star", "count": "9.4M" },
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+    "image": "https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN=s64-rw",
     "title": "WhatsApp",
     "companyName": "Meta Platforms Inc.",
     "id": 2,
@@ -28,7 +28,7 @@
     "ratingAvg": 4.7,
     "downloads": "5B+",
     "ratings": [
-      { "name": "1 star", "count": "4M" },
+      { "name": "1 star ", "count": "4M" },
       { "name": "2 star", "count": "6M" },
       { "name": "3 star", "count": "8M" },
       { "name": "4 star", "count": "25M" },
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
+    "image": "https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM=s64-rw",
     "title": "Instagram",
     "companyName": "Meta Platforms Inc.",
     "id": 3,
@@ -46,7 +46,7 @@
     "ratingAvg": 4.4,
     "downloads": "5B+",
     "ratings": [
-      { "name": "1 star", "count": "8M" },
+      { "name": "1 star ", "count": "8M" },
       { "name": "2 star", "count": "9M" },
       { "name": "3 star", "count": "12M" },
       { "name": "4 star", "count": "34M" },
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/YouTube_Logo_2017.svg",
+    "image": "https://play-lh.googleusercontent.com/6am0i3walYwNLc08QOOhRJttQENNGkhlKajXSERf3JnPVRQczIyxw2w3DxeMRTOSdsY=s64-rw",
     "title": "YouTube",
     "companyName": "Google LLC",
     "id": 4,
@@ -64,7 +64,7 @@
     "ratingAvg": 4.3,
     "downloads": "10B+",
     "ratings": [
-      { "name": "1 star", "count": "10M" },
+      { "name": "1 star ", "count": "10M" },
       { "name": "2 star", "count": "12M" },
       { "name": "3 star", "count": "17M" },
       { "name": "4 star", "count": "47M" },
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/TikTok_Logo.svg",
+    "image": "https://play-lh.googleusercontent.com/sUXm7uP_c8ysJqwOkbmIpBnDee_6lJJCPODRP4DOCuFWp9Gq-_X_oqY9NTJ2OIEGtQ=s64-rw",
     "title": "TikTok",
     "companyName": "ByteDance Ltd.",
     "id": 5,
@@ -82,7 +82,7 @@
     "ratingAvg": 4.5,
     "downloads": "3B+",
     "ratings": [
-      { "name": "1 star", "count": "4M" },
+      { "name": "1 star ", "count": "4M" },
       { "name": "2 star", "count": "5M" },
       { "name": "3 star", "count": "9M" },
       { "name": "4 star", "count": "26M" },
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg",
+    "image": "https://play-lh.googleusercontent.com/KCMTYuiTrKom4Vyf0G4foetVOwhKWzNbHWumV73IXexAIy5TTgZipL52WTt8ICL-oIo=s64-rw",
     "title": "Facebook",
     "companyName": "Meta Platforms Inc.",
     "id": 6,
@@ -100,7 +100,7 @@
     "ratingAvg": 4.1,
     "downloads": "5B+",
     "ratings": [
-      { "name": "1 star", "count": "12M" },
+      { "name": "1 star ", "count": "12M" },
       { "name": "2 star", "count": "13M" },
       { "name": "3 star", "count": "16M" },
       { "name": "4 star", "count": "31M" },
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Gmail_icon_%282020%29.svg",
+    "image": "https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=s64-rw",
     "title": "Gmail",
     "companyName": "Google LLC",
     "id": 7,
@@ -118,7 +118,7 @@
     "ratingAvg": 4.5,
     "downloads": "10B+",
     "ratings": [
-      { "name": "1 star", "count": "2M" },
+      { "name": "1 star ", "count": "2M" },
       { "name": "2 star", "count": "3M" },
       { "name": "3 star", "count": "5M" },
       { "name": "4 star", "count": "17M" },
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+    "image": "https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI=s64-rw",
     "title": "Netflix",
     "companyName": "Netflix Inc.",
     "id": 8,
@@ -136,7 +136,7 @@
     "ratingAvg": 4.4,
     "downloads": "1.5B+",
     "ratings": [
-      { "name": "1 star", "count": "4M" },
+      { "name": "1 star ", "count": "4M" },
       { "name": "2 star", "count": "5M" },
       { "name": "3 star", "count": "7M" },
       { "name": "4 star", "count": "23M" },
