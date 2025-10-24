@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import { useLoaderData, useParams } from "react-router";
 import { Bar, BarChart, CartesianGrid, Tooltip, XAxis, YAxis } from "recharts";
 
@@ -11,8 +11,12 @@ const SingleApp = () => {
     const appData = allData.find(app => app.id === appId);
     const {title,downloads,ratingAvg,reviews,description,size,image,companyName,ratings} = appData;
 
-    console.log(ratings);
-   
+    const [installBtn, setInstallBtn] = useState(false);
+
+    const handleInstall = () => {
+        setInstallBtn(true);
+    };
+
     return (
         <div className="bg-[#D2D2D2] md:p-15">
           
@@ -45,8 +49,9 @@ const SingleApp = () => {
                         </div>
                   </div>
                   <div>
-                    <button className="btn mt-4 text-[20px] font-600 text-white bg-[#00d390] ">
-                        Install Now ({size} MB)
+                    <button onClick={handleInstall} disabled={installBtn} className={`mt-5 px-4 py-2 rounded-lg font-semibold text-white text-[20px] 
+        ${installBtn ? "bg-[#00d390] cursor-not-allowed" : "bg-[#00d390] hover:bg-[#04704e]"}`}>
+                       {installBtn ? "Installed" : `Install Now (${size} MB)`}
                     </button>
                   </div>
                   
